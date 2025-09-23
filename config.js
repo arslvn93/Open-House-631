@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "505 Main Street East",
     "city": "NaN",
@@ -96,6 +96,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-631",
     "tag": "Open House 505 Main Street East",
     "netlifyUrl": null,
-    "siteId": "1062829540"
+    "siteId": "576b9261-fdb2-4bd7-82ce-e0c989a4d505"
   }
 }
