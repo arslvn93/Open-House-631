@@ -130,8 +130,8 @@ const config = {
   "deploymentInfo": {
     "repoName": "Open-House-631",
     "repoUrl": "https://github.com/arslvn93/Open-House-631",
-    "tag": "Open House 505 Main Street East",
-    "netlifyUrl": "",
+    "tag": "Leads | 505 Main Street East Open House",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/CVLYBNRm65xkdYXWeFCq/webhook-trigger/Bz5U2LrvSTZglC5ZrM8D",
     "siteId": "576b9261-fdb2-4bd7-82ce-e0c989a4d505"
   }
 };
