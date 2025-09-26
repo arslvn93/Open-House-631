@@ -34,6 +34,10 @@ const config = {
       {
         "icon": "fas fa-link",
         "text": "Property Listing URL"
+      },
+      {
+        "icon": "fas fa-map",
+        "text": "Floor Plan"
       }
     ]
   },
