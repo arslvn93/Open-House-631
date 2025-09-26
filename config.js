@@ -11,16 +11,16 @@ const config = {
     ]
   },
   "realtor": {
-    "fullName": "Driscoll-Peca Team",
+    "fullName": "Christine from the Driscoll-Peca Team",
     "title": "REALTOR®",
     "phone": "(613) 706-0066",
     "email": "christine@driscollpeca.com",
-    "bio": "",
-    "photoUrl": "",
+    "bio": "Driscoll-Peca Team at Real Broker LTD.",
+    "photoUrl": "https://i.ibb.co/kg7MPsys/christine.jpg",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
-      "instagram": "https://instagram.com/ae.parks",
-      "website": ""
+      "instagram": "https://instagram.com/driscollpecateam",
+      "website": "https://driscollpeca.com/"
     }
   },
   "brokerage": {
