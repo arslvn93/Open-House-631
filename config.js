@@ -15,7 +15,7 @@ const config = {
     "title": "REALTOR®",
     "phone": "(613) 706-0066",
     "email": "christine@driscollpeca.com",
-    "bio": "Driscoll-Peca Team at Real Broker LTD.",
+    "bio": "You won’t catch me using words like “top producer” or “#1 agent” because real estate isn’t about bragging rights. It’s\nabout people. Real people. Real stories. Real moves.\nWhether I’m negotiating a complex deal, putting a creative spin on marketing, or rallying the community for a local\nevent, I bring clear communication, bold strategy, and a no-nonsense approach to getting things done. I lead clients\nthrough major life transitions with confidence, care, and a plan that works—because it matters. Not just to you, but to\nme too.\n\nIf you want someone who knows the process inside and out, keeps things moving forward, and shows up ready to\nadvocate fiercely on your behalf, I got you.",
     "photoUrl": "https://i.ibb.co/kg7MPsys/christine.jpg",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
