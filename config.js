@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "505 Main Street East",
     "city": "NaN",
     "cityStateZip": "NaN, ON K0G1N0",
-    "heroSubtitle": "Listing price: $650,000 | 3 beds, 2 baths | 1 1/2 Storey home. Open house September 28, 2025. Register for more property details, photos, floor plans, and neighborhood info!",
+    "heroSubtitle": "Charming 3-bed, 2-bath heritage home on Main Street East in picturesque Merrickville! Experience village living with canal access, historic charm, and walkable community amenities. Register for updates and property details.",
     "backgroundImageUrl": "https://api.typeform.com/responses/files/25bdffe59bada66da3da2997333902e8e27960e4b43f01b113b3c1ca76ef0710/IMG_8277.JPEG",
     "galleryImages": [
       "https://api.typeform.com/responses/files/25bdffe59bada66da3da2997333902e8e27960e4b43f01b113b3c1ca76ef0710/IMG_8277.JPEG",
