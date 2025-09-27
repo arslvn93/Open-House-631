@@ -60,72 +60,54 @@ const config = {
   "modalQuestions": [
     {
       "id": "agent_status",
-      "questionText": "Are you currently exploring homes with a real estate agent?",
-      "options": [
-        {
-          "value": "committed",
-          "text": "Yes, I'm committed to an agent."
-        },
-        {
-          "value": "not_committed",
-          "text": "No, I'm not committed to an agent."
-        },
-        {
-          "value": "gathering_info",
-          "text": "Just gathering information at this stage."
-        }
-      ]
-    },
-    {
-      "id": "interest_level",
       "questionText": "How interested are you in properties like this?",
       "options": [
         {
-          "value": "very_interested",
+          "value": "committed",
           "text": "Very interested, actively looking."
         },
         {
-          "value": "somewhat_interested",
+          "value": "not_committed",
           "text": "Somewhat interested, keeping options open."
         },
         {
-          "value": "just_browsing",
+          "value": "gathering_info",
           "text": "Just browsing for now."
         }
       ]
     },
     {
-      "id": "neighborhood_engagement",
+      "id": "interest_level",
       "questionText": "How do you usually enjoy the neighborhood?",
       "options": [
         {
-          "value": "resident_explorer",
+          "value": "very_interested",
           "text": "I live here and love exploring locally."
         },
         {
-          "value": "considering_move",
+          "value": "somewhat_interested",
           "text": "I'm considering moving to this area."
         },
         {
-          "value": "just_visiting",
+          "value": "just_browsing",
           "text": "Just visiting for the open house."
         }
       ]
     },
     {
-      "id": "feature_attraction",
+      "id": "neighborhood_engagement",
       "questionText": "What feature attracted you to this home?",
       "options": [
         {
-          "value": "design_layout",
+          "value": "resident_explorer",
           "text": "The design and layout."
         },
         {
-          "value": "location_neighborhood",
+          "value": "considering_move",
           "text": "The location and neighborhood."
         },
         {
-          "value": "home_price",
+          "value": "just_visiting",
           "text": "The price of the home."
         }
       ]
