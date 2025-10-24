@@ -11,12 +11,12 @@ const config = {
     ]
   },
   "realtor": {
-    "fullName": "Christine from the Driscoll-Peca Team",
+    "fullName": "Trevor from the Driscoll-Peca Team",
     "title": "REALTOR®",
     "phone": "(613) 706-0066",
-    "email": "christine@driscollpeca.com",
-    "bio": "You won’t catch me using words like “top producer” or “#1 agent” because real estate isn’t about bragging rights. It’s\nabout people. Real people. Real stories. Real moves.\nWhether I’m negotiating a complex deal, putting a creative spin on marketing, or rallying the community for a local\nevent, I bring clear communication, bold strategy, and a no-nonsense approach to getting things done. I lead clients\nthrough major life transitions with confidence, care, and a plan that works—because it matters. Not just to you, but to\nme too.\n\nIf you want someone who knows the process inside and out, keeps things moving forward, and shows up ready to\nadvocate fiercely on your behalf, I got you.",
-    "photoUrl": "https://i.ibb.co/kg7MPsys/christine.jpg",
+    "email": "trevor@driscollpeca.com",
+    "bio": "With years of real estate service under our belt, I can assure you that you are in good hands. I'm committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers.\n\nWith deep local knowledge and a true passion for real estate, I'm committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one!",
+    "photoUrl": "https://i.ibb.co/99fMmw9t/Agent-Headshots-20.png",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/driscollpecateam",
